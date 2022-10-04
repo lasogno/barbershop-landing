@@ -1,0 +1,22 @@
+{
+  "name": "barbershop-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasogno/barbershop-landing.git"
+  },
+  "author": "Alisa Lobanova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasogno/barbershop-landing/issues"
+  },
+  "homepage": "https://github.com/lasogno/barbershop-landing#readme",
+  "devDependencies": {
+    "stylelint-config-prettier": "^9.0.3"
+  }
+}
